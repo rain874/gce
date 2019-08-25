@@ -1,1 +1,1 @@
-# The esay way make a xmlHttpRequest with ContentScript extension
+# The esay way make a xmlHttpRequest with Content Scripts extension
